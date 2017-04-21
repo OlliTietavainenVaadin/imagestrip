@@ -1,0 +1,7 @@
+.idea/
+*.iml
+imagestrip-addon/target/
+imagestrip-demo/target/
+*.css
+*.scss.cache
+imagestrip-demo/src/main/webapp/VAADIN/themes/demo/addons.scss
